@@ -1,10 +1,11 @@
 # Agent-based model of functional diversity in management teams
 
-MATLAB code accompanying *"Modeling the Effect of Functional Diversity in Management
-Teams: An Agent-Based Approach."* The model represents managers as normalized skill
-vectors and tasks as bundles of functional requirements, and studies how intrapersonal
-functional diversity (IFD), dominant-function diversity (DFD), skill coverage (the Skill
-Diversity Index, SDI), and the communication regime shape team communication and performance.
+MATLAB code accompanying *"Same Diversity, Opposite Effects: An Agent‑Based Account of 
+Skill Coverage and Communication in Management Teams"* The model represents managers as
+normalized skill vectors and tasks as bundles of functional requirements, and studies how
+intrapersonal functional diversity (IFD), dominant-function diversity (DFD), skill coverage
+(the Skill Diversity Index, SDI), and the communication regime shape team communication
+and performance.
 
 ## Requirements
 - MATLAB (developed and tested on R2022b).
